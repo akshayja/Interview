@@ -60,23 +60,29 @@
 	- Ans-> Horizontal, Vertical cuts, then stack the 4 pieces on top of each other, one cut through all the pieces.
 
 User			
-ID	Name	  Enabled	Salary
-1	  Vignesh	TRUE	  20000
-2	  Bhushan	  TRUE	  21000
-3	  Anant	   FALSE	21000
-4	  Vivek	   FALSE	19500
-			
-			
-ROLES			
-ID	NAME		
-1	  VP		
-2	  MANAGER		
-			
-			
-USER_ROLES			
-USER_ID	ROLE_ID		
- 1	        2		
- 2	        1		
+User
+
+ ID | Name | Enabled | Salary |
+--- | --- | --- | --- |
+1   | Vignesh | TRUE | 20000
+2   | Bhushan | TRUE | 21000
+3   | Anant | FALSE | 21000
+4   | Vivek | FALSE | 19500
+ 
+ ROLES
+
+ ID | Name 
+--- | --- |
+1   | VP | 
+2   | MANAGER | 
+
+USER_ROLES
+
+USER_ID | ROLE_ID 
+--- | --- |
+1   | 2 | 
+2   | 1 | 
+		
 
 
 Find out users who do not have any role.
