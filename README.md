@@ -59,7 +59,6 @@
 	- Tweak in the question - it’s a cream cake, make sure every piece has cream.
 	- Ans-> Horizontal, Vertical cuts, then stack the 4 pieces on top of each other, one cut through all the pieces.
 
-User			
 User
 
  ID | Name | Enabled | Salary |
